@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Copiar texto seleccionado",
+    "version": "1.0",
+    "description": "Permite seleccionar múltiples textos y copiarlos.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        //"default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/multicopy16.png",
+            "32": "icons/multicopy32.png",
+            "64": "icons/multicopy64.png",
+            "128": "icons/multicopy128.png"
+        }
+    },
+    "icons": {
+        "16": "icons/multicopy16.png",
+        "32": "icons/multicopy32.png",
+        "64": "icons/multicopy64.png",
+        "128": "icons/multicopy128.png"
+    }
+}
