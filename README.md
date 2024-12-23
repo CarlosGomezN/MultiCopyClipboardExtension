@@ -1,6 +1,6 @@
 # Extensión “Copiar texto seleccionado v1.0”
 
-Después de buscar una extensión que me permitiera pegar varios textos a la vez de una misma página web y no encontrarla, decidí crear mi propia extensión. Así que, te presento la extensión “Copiar texto seleccionado”. La iba a llamar “Multicopy”, pero pensé que sería mejor dejarlo en español por ahora, aunque no suene tan glamuroso.
+Después de buscar una extensión que me permitiera pegar varios textos a la vez de una misma página web y no encontrarla, decidí crear mi propia extensión. Así que, te presento la extensión “Copiar texto seleccionado”. La iba a llamar “MultiCopy Clipboard Extension”, pero pensé que sería mejor dejarlo en español por ahora, aunque no suene tan glamuroso.
 
 ## Objetivo
 El objetivo de esta extensión es permitirte seleccionar un texto de una página web y copiarlo al portapapeles. La ventaja de usar esta extensión es que puedes copiar uno a uno todos los textos que quieras y guardarlos en el portapapeles. Luego, podrás pegar todos esos textos a la vez donde desees.
